@@ -2,7 +2,7 @@
 
 **Punched card recognition system.**
 
-<img width="1248" height="832" alt="PunchedCardsFlyer" src="https://github.com/user-attachments/assets/6ace6aea-8bd5-4f80-ab4d-4d5574e2c212" />
+<img width="1248" height="832" alt="PunchedCardsFlyer" src="https://github.com/user-attachments/assets/ec2f9b28-a459-4eb3-9a03-cfcd60b52188" />
 
 ## Parts
 
