@@ -13,6 +13,8 @@
 | **Webcam** | USB Web Cam |
 | **Power** | Compatible Power Supply |
 
+---
+
 # 🗂️🤖 PunchedCards
 
 **Punched-card recognition with computer vision, Edge Impulse, and the LattePanda IOTA.**
